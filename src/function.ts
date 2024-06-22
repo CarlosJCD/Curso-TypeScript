@@ -1,4 +1,4 @@
-const sumar = (x: number, y:number): number => {
+const sumar2 = (x: number, y:number): number => {
     return x + y
 }
 
