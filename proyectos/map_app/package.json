@@ -1,0 +1,29 @@
+{
+  "name": "map_app",
+  "version": "1.0.0",
+  "description": "Map app with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "CarlosJCD",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/google.maps": "^3.55.10",
+    "lite-server": "^2.6.1",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "@types/googlemaps": "^3.43.3",
+    "dotenv": "^16.4.5",
+    "googlemaps": "^1.12.0",
+    "parcel-bundler": "^1.12.5",
+    "ts-node": "^10.9.2"
+  }
+}
